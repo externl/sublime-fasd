@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["super+shift+o"],
+        "command": "fasd_jump_to_directory"
+    }
+]

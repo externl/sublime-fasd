@@ -1,0 +1,7 @@
+
+[
+    {
+        "caption": "fasd: Jump to directory",
+        "command": "fasd_jump_to_directory"
+    }
+]
