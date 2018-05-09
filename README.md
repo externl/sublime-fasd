@@ -6,10 +6,10 @@ A valid `fasd` installation is required.
 
 ## Installation
 
-<!-- ### Package Control
+### Package Control
 
 Press <kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open the command palette.
-Type `Package Control: Install Package` and press enter. Then search for `fasd`. -->
+Type `Package Control: Install Package` and press enter. Then search for `fasd`.
 
 ### Manually
 
